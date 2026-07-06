@@ -35,7 +35,7 @@ Suricata inspects network packets in real time and generates alerts when malicio
 ## Architecture Diagram
 
 <p align="center">
-  <img src="Architecture_Diagram.png" width="900">
+  <img src="Architecture_Diagram.png.png" width="900">
 </p>
 
 ---
@@ -345,8 +345,3 @@ Wazuh automatically parses the **Suricata** log file:
 
 ---
 
-## Author
-
-**Manika Nayak**
-
-Cybersecurity | SOC Analyst | Wazuh SIEM Home Lab
